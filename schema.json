@@ -1,0 +1,17 @@
+{
+  "type": "component",
+  "metadata": {},
+  "schema": {
+    "name": "hello-world-bb",
+    "friendlyName": "hello-world-bb",
+    "description": "Hello World!",
+    "icon": "Text",
+    "settings": [
+      {
+        "type": "text",
+        "key": "text",
+        "label": "Hello world!!"
+      }
+    ]
+  }
+}
